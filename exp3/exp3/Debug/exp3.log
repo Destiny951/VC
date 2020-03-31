@@ -1,0 +1,15 @@
+﻿生成启动时间为 2020/3/29 23:12:51。
+     1>项目“D:\Study\MyProject\exp3\exp3\exp3.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\MyProject\exp3\Debug\exp3.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Study\MyProject\exp3\Debug\exp3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\MyProject\exp3\Debug\exp3.lib" /MACHINE:X86 Debug\exp3.res
+         Debug\exp3.obj
+         Debug\exp3Doc.obj
+         Debug\exp3View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         exp3.vcxproj -> D:\Study\MyProject\exp3\Debug\exp3.exe
+     1>已完成生成项目“D:\Study\MyProject\exp3\exp3\exp3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.58

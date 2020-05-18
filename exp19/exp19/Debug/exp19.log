@@ -1,0 +1,23 @@
+﻿生成启动时间为 2020/5/18 15:49:22。
+     1>项目“D:\Study\MyProject\exp19\exp19\exp19.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\exp19.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt exp19.cpp exp19Doc.cpp MainFrm.cpp
+         MainFrm.cpp
+         exp19Doc.cpp
+         exp19.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\exp19.res" exp19.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\MyProject\exp19\Debug\exp19.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Study\MyProject\exp19\Debug\exp19.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\MyProject\exp19\Debug\exp19.lib" /MACHINE:X86 Debug\exp19.res
+         Debug\exp19.obj
+         Debug\exp19Doc.obj
+         Debug\exp19View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         exp19.vcxproj -> D:\Study\MyProject\exp19\Debug\exp19.exe
+     1>已完成生成项目“D:\Study\MyProject\exp19\exp19\exp19.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.70

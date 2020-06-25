@@ -1,0 +1,15 @@
+﻿生成启动时间为 2020/6/25 13:39:39。
+     1>项目“D:\Study\MyProject\exp22\exp22\exp22.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\MyProject\exp22\Debug\exp22.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Study\MyProject\exp22\Debug\exp22.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\MyProject\exp22\Debug\exp22.lib" /MACHINE:X86 Debug\exp22.res
+         Debug\exp22.obj
+         Debug\exp22Doc.obj
+         Debug\exp22View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         exp22.vcxproj -> D:\Study\MyProject\exp22\Debug\exp22.exe
+     1>已完成生成项目“D:\Study\MyProject\exp22\exp22\exp22.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.67

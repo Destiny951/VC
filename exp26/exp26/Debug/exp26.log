@@ -1,0 +1,19 @@
+﻿生成启动时间为 2020/6/27 20:49:24。
+     1>项目“D:\Study\MyProject\exp26\exp26\exp26.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\exp26.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt exp26View.cpp
+         exp26View.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\MyProject\exp26\Debug\exp26.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Study\MyProject\exp26\Debug\exp26.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\MyProject\exp26\Debug\exp26.lib" /MACHINE:X86 Debug\exp26.res
+         Debug\exp26.obj
+         Debug\exp26Doc.obj
+         Debug\exp26View.obj
+         Debug\MainFrm.obj
+         Debug\MyDialog.obj
+         Debug\stdafx.obj
+         exp26.vcxproj -> D:\Study\MyProject\exp26\Debug\exp26.exe
+     1>已完成生成项目“D:\Study\MyProject\exp26\exp26\exp26.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.89

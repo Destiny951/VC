@@ -105,6 +105,8 @@
     <ClInclude Include="exp34Doc.h" />
     <ClInclude Include="exp34View.h" />
     <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="MyDialog1.h" />
+    <ClInclude Include="MyDialog2.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -114,6 +116,8 @@
     <ClCompile Include="exp34Doc.cpp" />
     <ClCompile Include="exp34View.cpp" />
     <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="MyDialog1.cpp" />
+    <ClCompile Include="MyDialog2.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
@@ -133,4 +137,9 @@
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="exp34.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
 </Project>

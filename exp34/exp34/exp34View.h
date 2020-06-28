@@ -17,7 +17,15 @@ public:
 
 // 操作
 public:
-
+	CRect circle;
+	CRect ce;
+	CBrush brush;
+	CBrush *oldbrush;
+	CPen* newPen = new CPen(PS_DOT, 1, RGB(0, 0, 0));
+	CRect yuan;
+	CPoint start;
+	bool log = 0;
+	bool t = 0;
 // 重写
 public:
 	virtual void OnDraw(CDC* pDC);  // 重写以绘制该视图
@@ -37,6 +45,12 @@ protected:
 // 生成的消息映射函数
 protected:
 	DECLARE_MESSAGE_MAP()
+public:
+	afx_msg void OnDrawcircle();
+	afx_msg void OnDrawcolor();
+	afx_msg void OnLButtonDown(UINT nFlags, CPoint point);
+	afx_msg void OnLButtonUp(UINT nFlags, CPoint point);
+	afx_msg void OnMouseMove(UINT nFlags, CPoint point);
 };
 
 #ifndef _DEBUG  // exp34View.cpp 中的调试版本

@@ -1,0 +1,21 @@
+﻿生成启动时间为 2020/6/29 18:10:01。
+     1>项目“D:\Study\MyProject\exp38\exp38\exp38.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\exp38.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt exp38Set.cpp
+         exp38Set.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\exp38.res" exp38.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\MyProject\exp38\Debug\exp38.exe" /INCREMENTAL /NOLOGO odbc32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Study\MyProject\exp38\Debug\exp38.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\MyProject\exp38\Debug\exp38.lib" /MACHINE:X86 Debug\exp38.res
+         Debug\exp38.obj
+         Debug\exp38Doc.obj
+         Debug\exp38Set.obj
+         Debug\exp38View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         exp38.vcxproj -> D:\Study\MyProject\exp38\Debug\exp38.exe
+     1>已完成生成项目“D:\Study\MyProject\exp38\exp38\exp38.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.86

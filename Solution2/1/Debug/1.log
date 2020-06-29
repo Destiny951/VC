@@ -1,0 +1,11 @@
+﻿生成启动时间为 2020/6/29 16:33:37。
+     1>项目“D:\Study\MyProject\Solution2\1\1.vcxproj”在节点 2 上(Build 个目标)。
+     1>Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\Study\MyProject\Solution2\Debug\1.lib" /NOLOGO Debug\1.obj
+         Debug\stdafx.obj
+         1.vcxproj -> D:\Study\MyProject\Solution2\Debug\1.lib
+     1>已完成生成项目“D:\Study\MyProject\Solution2\1\1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.22
